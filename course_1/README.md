@@ -1,3 +1,5 @@
+[Glossary](https://docs.google.com/document/d/1iIk571xhzLgS4920sQE7doDeW7Bdd51nBH1qWYX5baw/template/preview)
+
 # Introduction
 
 - The phrase "user experience" was first coined in the 1990s, by cognitive psychologist, Don Norman, as technology use expanded and evolved.
@@ -73,3 +75,96 @@
     - **Launch**: Sharing a finished version of the product with the public. This might involve listing an app in the Google Play Store or Apple's App Store, making a website go live, or putting a physical product on store shelves. Launching can be very satisfying for you and your team because you have the chance to understand how your designs will be received in the real world. However, the work on a product isn't quite finished after launch. You may still identify opportunities to improve on the designs or learn even more about the user experience based on feedback. This could involve going back to the design or testing stages and figuring out ways to produce a more enhanced version of the product.
 
 # Characteristics of Good User Experience
+
+- **Usable**: If a product is usable, it means the design, structure, and purpose of the product is clear and easy to use. As you evaluate a product for usability, you can ask questions like: Is everything in the design easy to find? Is the design's functionality easy to understand? Can users accomplish specific tasks within the design? As you evaluate, these questions cqan help you determine whether the design delivers a usable experience.
+
+    - Imagine you are evaluation the usability of an airline app. Assuming the primary purpose of this app is to book a flight, the design should provide a clear and easy way to complete that task. For example, a section where you can easily enter travel and flight details on the homepage would be an example of good usability.
+
+- **Equitable**: If a product is equitable, it means a design is helpful to people with diverse abilities and backgrounds. In other words, the product’s design addresses the needs of a diverse audience and ensures a high-quality experience is delivered to all users regardless of background, gender, race, or ability. Equity means providing people with the tools they need to accomplish their goals and support improved quality of life. Equity goes beyond the concept of equality, where everyone is given equal resources, because people often need different tools and support based on their needs. This is especially important to keep in mind for those in commonly disenfranchised groups. As you evaluate the equity of a product’s UX, you can ask questions like: Are the needs of a diverse group of users considered? Does the product’s design address the needs of traditionally underrepresented and excluded groups? These questions can help you determine whether the design delivers an equitable experience. 
+
+    - Imagine you are evaluating how equitable a social messaging app is. You might consider the design more equitable if the keyboard emoji list includes different skin tones and gender-neutral avatar options.
+
+- **Enjoyable**: If a product is enjoyable, it means the design delights the user. The design reflects what the user may be thinking or feeling and creates a positive connection with them. A product’s design doesn’t have to be enjoyable for it to function properly. But, an enjoyable design adds to an already functional product and can enhance the user’s feelings about the experience. As you evaluate how enjoyable a product’s UX is, you can ask questions like: Are there aspects of the design that consider the user’s feelings?  Does the design inspire delight in the user? Does the design keep the user engaged throughout their experience? These questions can help you determine whether the design delivers an enjoyable experience. 
+
+    - Imagine you are evaluating how enjoyable a video streaming app is. Design aspects that might increase how much you enjoy the product include personalized recommendations based on previous watching habits, or the ability to customize the appearance of your account.
+
+- **Useful**: If a product is useful, that means it solves user problems. In other words, the design intentionally solves a user problem that the designer has identified. It’s important to note that, while similar, useful and usable have different meanings. A product that is useful isn’t always usable. The same is true for the opposite. The distinction between the two is that usability refers to the product working well and being easy to use, while usefulness refers directly to the ability to solve user problems. As you evaluate how useful a product’s UX is, you can ask questions like: Does the design add value to the user’s experience? Does the design solve a problem for the user? Does the design help the user achieve a specific goal? These questions can help you determine whether the design delivers a useful experience. 
+
+    - Imagine you’re evaluating how useful a banking app is. Users typically download these apps because they need a place to manage their money. With this in mind, aspects of the app that might be considered useful are features that can be used to transfer money between accounts and pay bills.
+
+# Job Responsibilities of Entry-Level UX Designers
+
+- **Reasearch**: UX designers use research to understand audiences and learn about their backgrounds; demographics, like age and location; motivations; pain points; emotions; and life goals. There's a lot to learn about users and their preferences, and UX designers want to discover as much as they can in order to inform their product's design.
+
+- **Wireframe**: An entry-level designer also creates wireframes. A wireframe is an outline or a sketch of a product or a screen. It helps the designer figure out how a page is arranged, where each piece of a product fits in with the others, and how users will likely interact with the product. Wireframing is one of the first steps designers take when building a new product or feature. It's done after or at the same time as the research. We can wireframe by drawing on paper or digitally on a computer.
+
+- **Prototype**: A prototype is an early model of a product that demonstrates functionality, like a wireframe, but a lot more advanced. While a wireframe gives you a general idea of where things go and how the product will function, a prototype illustrates a progression from one screen to the next. We can draw our prototypes on paper, create a physical prototype, or build a digital prototype.
+
+- **Create Information Architecture**: Another responsibility of an entry-level UX designer might include creating the information architecture, which is the framework of a website, or how it's organized, categorized, and structured. For example, when you click the File menu on a word processing application like Google Docs, you expect certain options, like New or Print, to appear in the dropdown menu. Or when you click on a company's homepage, you expect to find a link to an About page. That structure is the website's information architecture.
+
+- **Communicate Effectively**: Finally, an entry-level UX design job, like many jobs, also requires a lot of communication, like meetings with colleagues, writing emails, creating proposals, or pitching clients. In short, entry-level UX designers should know how to research, wireframe, prototype, create information architecture, and communicate effectively. Your exact responsibilities will vary depending on where you work and how specialized you need to be for your particular job.
+
+# The Influence of Company Size and Industry
+
+- **Startups and Small Businesses**: Startups are new businesses that want to develop a unique product or service and bring it to market. Small businesses are privately owned businesses with few employees. A lot of UX designers are excited to start work at startups or small businesses because they can see the impact of their work more quickly and develop a broader range of skills.
+
+    - Advantages:
+        - Team size: Close-knit team and able to work directly with upper management.
+        - Growth: Opportunity for growth due to taking on many responsibilities (visual design, interaction design, user research, and more).
+        - Creativity: Usually more creative freedom with fewer guidelines and processes.
+        - Impact: Lots of impact on final products, with few people working on a project.
+    - Disadvantages:
+        - Mentorship: Fewer mentors to choose from within a smaller company.
+        - Responsibility: Most of the responsibility for a UX project falls solely on you, which can be stressful if you have little UX experience.
+        - Speed: Have to be comfortable working quickly and launching work that isn’t perfect, with little oversight.
+
+- **Big Companies**: At a big company, like Google, you’re likely to work in teams on a specific project. Lots of UX designers want to work at big companies with the people who developed some of the most well-known products in the world. UX teams at larger companies tend to be more compartmentalized by specialization, making it easier for you to become an expert in one particular area of UX.
+
+    - Advantages:
+        - Mentorship: A variety of experienced designers and other UXers to learn from.
+        - Growth: Lots of opportunity for growth because there are many levels of designers and management.
+        - Guidelines: Clearer guidelines to keep products uniform and on brand.
+        - Team size: More people working on one project, which means you’re better able to focus on your specific responsibilities. 
+        - Specialization: Opportunity to focus on one particular area of design.
+    - Disadvantages:
+        - Team size: May feel less impactful or important as a contributor with lots of other designers on the project.
+        - Impact: May feel small at a company with so many features and products.
+        - Guidelines: Defined guidelines can be restrictive to creativity.
+
+- **Design Agencies**: A design agency is a one-stop-shop for visual brands, products, and services. Working at a design agency can be similar in some ways to working at a small business or startup, except you have multiple companies as your clients. Many agencies tend to work on a broad range of products, so you can explore many kinds of styles and approaches to UX design.
+
+    - Advantages:
+        - Impact: Lots of impact on projects, if you’re the only UX designer on the team.
+        - Networking: Opportunity to work with senior stakeholders, different teams, and diverse clients.
+        - Exposure: Exposure to lots of companies and industries with different clients. 
+        - Resume: Potential to work with large brands and display that work in your portfolio.
+    - Disadvantages:
+        - Mentorship: Lack of mentorship if you are the only UX designer on a project.
+        - Monotony: Depending on the agency, you could work only on the same type of projects.
+        - Ownership: Might not be able to work on a project from start to finish.
+        - Finished product: Products you work on might not launch, depending on client priorities.
+
+- **Advertising Agencies**: A lot of UX designers work at advertising agencies, which are teams of creatives hired by clients to build marketing campaigns. Sometimes called “creative technologists,” these designers work to create ads for brands using UX principles. This is a great option if you’re open to learning some interesting skills outside of a core UX design role.
+
+    - Advantages:
+        - Autonomy: Little to no middle management means more autonomy over your work.
+        - Learning: Opportunity to learn about other disciplines, like branding, marketing, and graphic design. 
+        - Variety: Every project is different based on the client.
+        - Networking: Work with a bunch of different brands, clients, and teams.
+    - Disadvantages:
+        - Specialization: Wide variation in projects, so you might not be able to hone in on specific skills easily.
+        - Relevance: Work may often involve branding and marketing, and might not focus on UX design.
+
+- **Freelancers**: Freelancers are self-employed UX designers who are hired by clients for their independent services. Being a freelancer gives you a lot of freedom, and it’s a great way for new UX designers to gain experience in the field and add work to their portfolio. 
+
+    - Advantages:
+        - Schedule: Set your own hours since you’re self-employed.
+        - Flexibility: Can freelance while working another job or balancing competing priorities.
+        - Autonomy: Choose the work that you want to do.
+        - Experience: Build your portfolio, especially if you don’t have a full-time UX job.
+    - Disadvantages:
+        - Structure: No one to report to, which means you have to be responsible for getting work done on time.
+        - Stability: Less stable than working for a company or agency, since work is not always guaranteed.
+        - Business: Manage the logistics of your own business, such as filing taxes, billing clients, and more.
+        - Mentorship: Lack of readily available mentors since you’re working by yourself.
+
