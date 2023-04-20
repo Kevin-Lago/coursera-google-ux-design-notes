@@ -36,13 +36,13 @@ Design sprints are designed to save time, create a path to bring a product to ma
 
 # Plan Design Sprints
 
-- **Step 1**: User research is the first step in any spring planner process. Get a rough idea of what your spring will focus on. It'll help decide which research methods make the most sense.
+- **Step 1**: User research is the first step in any sprint planner process. Get a rough idea of what your sprint will focus on. It'll help decide which research methods make the most sense.
 
 - **Step 2**: If you're planning the sprint, It's up to you to schedule short talks with colleagues or industry experts. This helps clarify the problem your spring is trying to solve.
 
 - **Step 3**: Find the right space. It's important to ensure that the space allows all employees equal opportunities to perform their job. Whiteboards are a great way to capture ideas or hand sticky notes. Acoustics are important to consider to participants can hear each other. Comfortable furniture that can move around easily can help collaboration. If you're planning the design sprint, it's your job to make sure everyone has what they need to participate.
 
-- **Step 4**: Gether the supplies you'll need for the spring. You'll need supplies like markers, sticky notes, snacks, water, ect..
+- **Step 4**: Gather the supplies you'll need for the sprint. You'll need supplies like markers, sticky notes, snacks, water, ect..
 
 - **Step 5**: Establish the rules of the sprint. These can include not allowing personal gadgets to prevent distractions.
 
